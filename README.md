@@ -20,6 +20,9 @@
    <img align="center" alt="rafael-js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="rafael-js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="center" alt="rafael-js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="rafael-js" height="40" width="60" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+   <img align="center" alt="rafael-js" height="40" width="60" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+   <img align="center" alt="rafael-js" height="40" width="60" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
             
  </div>
   
