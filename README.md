@@ -2,7 +2,7 @@
 ## Olá, Devs :beginner:
 ### Bem vindo ao meu perfil GitHub!<br>
 :star: Me chamo Rafael, moro em Brasília, tenho 29 anos, sou apaixonado nesse universo da programação e gosto de Jogos online.<br><br>
-:art: Em meu tempo livre gosto de programar e jogar video game .<br><br>
+:art: Em meu tempo livre gosto de programar e jogar com amigos.<br><br>
 :books: Atualmente Sou formado em Redes de computadores pela Unip.Estou me profissionalizando  para me tornar um Dev. Fullstack em JavaScript e Spring Angular<br><br><br>
 
 
