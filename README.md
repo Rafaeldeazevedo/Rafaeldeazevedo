@@ -4,8 +4,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaeldeazevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  </div>
 <div style="display: inline_block"><br>
-  
-</div>
+   <img align="center" alt="rafael-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="rafael-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+   <img align="center" alt="rafael-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="rafael-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="rafael-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+  <img align="center" alt="rafael-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+            
+ </div>
   
   ##
  
