@@ -1,7 +1,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/R4Fxxx?style=social)](https://twitter.com/R4Fxxx)
 ## Olá, Devs :beginner:
 ### Bem vindo ao meu perfil GitHub!<br>
-:star: Me chamo Rafael, moro em Brasília, tenho 29 anos, sou apaixonado nesse universo da programação e gosto de Jogos online.<br><br>
+:star: Me chamo Rafael, moro em Brasília, sou apaixonado nesse universo da programação e gosto de Jogos online.<br><br>
 :art: Em meu tempo livre gosto de programar e jogar com amigos.<br><br>
 :books: Atualmente Sou formado em Redes de computadores pela Unip, Estou me profissionalizando  para me tornar um Dev. Fullstack em Java<br><br><br>
 
