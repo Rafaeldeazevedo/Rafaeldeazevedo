@@ -1,9 +1,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/R4Fxxx?style=social)](https://twitter.com/R4Fxxx)
-## Olá, Devs :beginner:
-### Bem vindo ao meu perfil GitHub!<br>
-:star: Me chamo Rafael, moro em Brasília, sou apaixonado nesse universo da programação, tecnologia e de Jogos online.<br><br>
-:art: Em meu tempo livre gosto de programar e jogar com amigos.<br><br>
-:books: Atualmente Sou formado em Redes de computadores pela Unip, Estou me profissionalizando  para me tornar um Dev. Fullstack em Java<br><br><br>
+## Hello, Devs :beginner:
+### Welcome to my GitHub profile!<br>
+:star: My name is Rafael, I live in Brasilia, I'm passionate about this universe of programming, technology and online games.<br><br>
+:art: In my free time I like to code and play games with friends.<br><br>
+:books: I currently have a degree in Computer Networks from Unip, I am professionalizing myself to become a Fullstack Dev. in Java<br><br><br>
 
 
 
