@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/R4Fxxx?style=social)]
+
 ## Hello, Devs :beginner:
 ### Welcome to my GitHub profile!<br>
 :star: My name is Rafael, I live in Brasilia, I'm passionate about this universe of programming, technology and online games.<br><br>
